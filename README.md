@@ -23,11 +23,57 @@
 
 ## 🌈 Projects
 
-### [Project Name 1](link-to-your-project)
-A thrilling exploration of [brief description], where I used [technologies used] to uncover [what you learned or achieved].
+### [IPL Decade Dashboard Analysis (2008-2017)](https://public.tableau.com/app/profile/poojit.kasina/viz/IPLDecadeDynamicsDashboard/MatchStatistics)
+### [IPL Data Analysis (2008-2017)](link-to-your-project)
 
-### [Project Name 2](link-to-your-project)
-Delve into my work on [brief description], leveraging [technologies used] to achieve [what you learned or achieved].
+In this project, I conducted a comprehensive analysis of Indian Premier League (IPL) data spanning from 2008 to 2017. Leveraging data visualization and statistical techniques, I uncovered valuable insights into various aspects of the league, including:
+
+- **Toss Outcomes**: Analyzed how toss results impacted match outcomes and team strategies.
+- **Player Achievements**: Evaluated individual player performances, highlighting standout players and their contributions.
+- **Team Dynamics**: Explored team performance trends over the years, examining how different teams adapted their strategies.
+
+By identifying trends and patterns within the data, this analysis can provide actionable insights to inform future strategies and decisions for IPL teams and stakeholders. The visualization of data not only makes the insights accessible but also engaging for fans and analysts alike.
+
+#### Key Technologies Used:
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL for data extraction and manipulation
+- Tableau for creating interactive dashboards
+
+#### Project Goals:
+- Enhance understanding of IPL data through insightful visualizations.
+- Provide a foundation for future analyses and strategic planning in the IPL.
+
+[Check out the project here!](https://drive.google.com/file/d/1CPNtD9epHxmTF_sm-eWtmbGULIO-JFgC/view)
+
+
+### [Healthcare Data Analysis](link-to-your-project)
+
+In this project, I conducted an extensive analysis of a diverse healthcare dataset consisting of over **150,000 records**, encompassing treatments for **100 ailments**. The dataset was managed across **3000+ providers** in **50 states** and **2000+ cities**, capturing treatment costs for **7 million patients**.
+
+#### Key Insights Extracted:
+- **Average Charges by State**: Analyzed regional pricing variations to identify disparities in treatment costs.
+- **Provider Payment Correlations**: Explored the relationship between provider performance and payment structures.
+- **Regional Payment Variations**: Investigated differences in treatment costs across various regions.
+
+#### Provider Performance Evaluation:
+Utilized key performance metrics to assess the effectiveness and efficiency of healthcare providers.
+
+#### Recommendations:
+- **Leverage Discharge Data**: Informed government healthcare policies to enhance patient awareness and support.
+- **Regular Cost Predictions**: Advocated for predictive models to assist budget-conscious patients in planning their healthcare expenses.
+- **Patient Awareness Initiatives**: Highlighted treatment costs with and without Medicare to empower patients in their decision-making.
+- **Improvements in Billing Processes**: Suggested enhancements in hospital billing and payment systems for increased transparency.
+- **Medicare Training Programs**: Recommended that Medicare provide billing guidelines and training for healthcare providers to standardize practices.
+- **Investment in Healthcare Infrastructure**: Advised regions with lower payments to enhance their healthcare facilities and services.
+- **Adoption of Cost-Efficient Practices**: Encouraged sharing best practices among providers to promote cost-effective healthcare solutions.
+
+#### Key Technologies Used:
+- **Data Cleaning & Visualization**: Microsoft Power Query, Microsoft Excel
+- **Data Analysis**: Pivot Tables and various analytical techniques to derive meaningful insights.
+
+[Explore the project here!](link-to-your-project)
+.
+
 
 ## 🌐 Connect with Me
 
