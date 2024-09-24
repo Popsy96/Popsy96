@@ -14,6 +14,14 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 
 ---
 
+## 🏅 Certifications:
+- **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)** – Coursera
+- **Python for Data Science** – LinkedIn Learning
+- **Cybersecurity Essentials** – Cisco Networking Academy
+- **Data Visualization with Tableau** – UC Davis
+- **SQL Bootcamp**-Light Hall
+---
+
 ## 🛠️ Skills:
 - **Programming**: Python, SQL
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Excel
