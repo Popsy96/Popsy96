@@ -17,7 +17,7 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 ## 🛠️ Skills:
 - **Programming**: Python, SQL
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Excel
-- **Databases**: MySQL
+- **Databases**: PostgreSQL,MSSQL
 - **Cybersecurity**: Network security, Secure software development
 
 ---
