@@ -39,8 +39,8 @@ Feel free to explore these projects for more details and interactive dashboards!
 ---
 
 ## 📈 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
-- 💌 [Email Me](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23/) 
+- 💌 [Email Me](mailto:poojitkasina@gmail.com)
 - 🌍 [Tableau Public Profile](https://public.tableau.com/profile/poojit.kasina)
 
 ---
