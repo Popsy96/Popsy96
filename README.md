@@ -6,6 +6,13 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 
 ---
 
+## 🎓 Education:
+- 📘 **Master of Cybersecurity** – Australasian Academy of Higher Education (In Progress)
+- 🛠️ **Master of Professional Engineering** – Swinburne University, Australia (2020)
+- ⚙️ **Bachelor of Mechanical Engineering** – India
+
+---
+
 ## 🌟 What I Do:
 - 🧑‍💻 **Data Analytics**: Python, SQL, Tableau, Excel
 - 🔐 **Cybersecurity**: Programming, Securing Networks & Systems
@@ -18,16 +25,14 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 
 | **Certifications** | **Learning Activities** |
 |--------------------|-------------------------|
-| 🎖 **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)** – Coursera | 📊 **Python for Data Science** – LinkedIn Learning |
+| 🎖 **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)** | 📊 **Python for Data Science** – LinkedIn Learning |
 | 💻 **SQL Bootcamp** – Light Hall | 🔒 **[Cybersecurity Essentials](https://www.netacad.com/dashboard)** – Cisco Networking Academy |
-| 📈 **Data Visualization with Tableau** – UC Davis | 🔐 **[TryHackMe Activity](https://tryhackme.com/p/Poojit)** – TryHackMe |
-
+| 🛡️ **Credly** – Completed multiple courses related to data analytics and cybersecurity | 🔐 **[TryHackMe Activity](https://tryhackme.com/p/Poojit)** – TryHackMe |
 ---
 
-### 🏆 **Badges:**
+## 🔖 Credly Accomplishments:
+Through **Credly**, I’ve expanded my expertise with industry-recognized credentials across data analytics and cybersecurity. Check out my **[Credly profile](https://www.credly.com/users/your-credly-profile)** for a full list of certifications.
 
-- ![Google Data Analytics](https://www.credly.com/badges/xxxxxxxxxxx)  
-- ![Cybersecurity Essentials](https://path/to/cisco/badge.png)
 
 ---
 
