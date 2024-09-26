@@ -7,7 +7,7 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 ---
 
 ## 🎓 Education:
-- 📘 **Master of Cybersecurity** – Australasian Academy of Higher Education (In Progress)
+- 📘 **Master of Cybersecurity** – Australasian Academy of Higher Education, Australia (In Progress)
 - 🛠️ **Master of Professional Engineering** – Swinburne University, Australia (2020)
 - ⚙️ **Bachelor of Mechanical Engineering** – India
 
