@@ -14,12 +14,21 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 
 ---
 
-## 🏅 Certifications:
-- **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)** – Coursera
-- **Python for Data Science** – LinkedIn Learning
-- **Cybersecurity Essentials** – Cisco Networking Academy
-- **Data Visualization with Tableau** – UC Davis
-- **SQL Bootcamp**-Light Hall
+## 🏅 Certifications & Learning Activities:
+
+| **Certifications** | **Learning Activities** |
+|--------------------|-------------------------|
+| 🎖 **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)** – Coursera | 📊 **Python for Data Science** – LinkedIn Learning |
+|  💻 **SQL Bootcamp** – Light Hall | 🔒 **Cybersecurity Essentials** – Cisco Networking Academy |
+| 📈 **Data Visualization with Tableau** – UC Davis | 🔐 **[TryHackMe Activity](https://tryhackme.com/p/Poojit)** – TryHackMe |
+
+---
+
+### 🏆 **Badges:**
+
+- ![Google Data Analytics](https://www.credly.com/badges/xxxxxxxxxxx)  
+- ![Cybersecurity Essentials](https://path/to/cisco/badge.png)
+
 ---
 
 ## 🛠️ Skills:
