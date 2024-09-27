@@ -23,15 +23,13 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 
 ## 🏅 Certifications & Learning Activities:
 
-| **Certifications** | **Learning Activities** |
-|--------------------|-------------------------|
-| 🎖 **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)** | 📊 **Python for Data Science** – LinkedIn Learning |
-| 💻 **SQL Bootcamp** – Light Hall | 🔒 **[Cybersecurity Essentials](https://www.netacad.com/dashboard)** – Cisco Networking Academy |
-| 🛡️ **Credly** – Completed multiple courses related to data analytics and cybersecurity | 🔐 **[TryHackMe Activity](https://tryhackme.com/p/Poojit)** – TryHackMe |
----
+- **[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)**  - Coursera
+- **Cybersecurity Essentials** – Cisco Networking Academy  
+- **[Credly](https://www.credly.com/users/your-credly-profile)** – Completed several industry-recognized courses in data analytics and cybersecurity. 
+- **[TryHackMe](https://tryhackme.com/p/Poojit)** – Hands-on cybersecurity training
+- **[Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/specialization/9RBQRA2EG8NY)** – Coursera
+- **[SQL Bootcamp](https://drive.google.com/file/d/1kDgS92-4rm7eUiOgOFU0xcZomY5XVndg/view)** – Light Hall
 
-## 🔖 Credly Accomplishments:
-Through **Credly**, I’ve expanded my expertise with industry-recognized credentials across data analytics and cybersecurity. Check out my **[Credly profile](https://www.credly.com/users/your-credly-profile)** for a full list of certifications.
 
 
 ---
