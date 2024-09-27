@@ -25,7 +25,7 @@ Welcome to my corner of the web! I'm passionate about diving deep into data and 
 
 - **[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)**  - Coursera
 - **Cybersecurity Essentials** – Cisco Networking Academy  
-- **[Credly](https://www.credly.com/users/your-credly-profile)** – Completed several industry-recognized courses in data analytics and cybersecurity. 
+- **[Credly](https://www.credly.com/users/poojit-kasina/)** – Completed several industry-recognized courses in data analytics and cybersecurity. 
 - **[TryHackMe](https://tryhackme.com/p/Poojit)** – Hands-on cybersecurity training
 - **[Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/specialization/9RBQRA2EG8NY)** – Coursera
 - **[SQL Bootcamp](https://drive.google.com/file/d/1kDgS92-4rm7eUiOgOFU0xcZomY5XVndg/view)** – Light Hall
